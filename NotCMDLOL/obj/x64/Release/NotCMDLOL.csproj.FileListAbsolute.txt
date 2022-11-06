@@ -1,0 +1,7 @@
+C:\Users\jfml\Desktop\NotCMDLOL\bin\x64\Release\NotCMDLOL.exe.config
+C:\Users\jfml\Desktop\NotCMDLOL\bin\x64\Release\NotCMDLOL.exe
+C:\Users\jfml\Desktop\NotCMDLOL\bin\x64\Release\NotCMDLOL.pdb
+C:\Users\jfml\Desktop\NotCMDLOL\obj\x64\Release\NotCMDLOL.csproj.AssemblyReference.cache
+C:\Users\jfml\Desktop\NotCMDLOL\obj\x64\Release\NotCMDLOL.csproj.CoreCompileInputs.cache
+C:\Users\jfml\Desktop\NotCMDLOL\obj\x64\Release\NotCMDLOL.exe
+C:\Users\jfml\Desktop\NotCMDLOL\obj\x64\Release\NotCMDLOL.pdb
